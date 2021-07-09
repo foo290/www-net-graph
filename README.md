@@ -14,3 +14,9 @@ Where normal(without threading) can take upto 5-15 minutes to parse 1000 links, 
 ## Dense
 <img width='700px' src="https://github.com/foo290/www-net-graph/blob/main/readme_images(Non-Project)/Screenshot%20from%202021-07-09%2013-39-36.png">
 
+### Example:
+For given input ```https://twitter.com```
+
+
+<img width='700px' src="https://github.com/foo290/www-net-graph/blob/main/readme_images(Non-Project)/twitter_net.png">
+
